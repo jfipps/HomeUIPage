@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeUIPage</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title">Title</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="description">Description</string>
+</resources>
